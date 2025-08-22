@@ -6,11 +6,11 @@
 
 ***
 
-**Disclaimer**: This work draws extensively on materials from the **Google Business Intelligence Certificate program**. The work presented here reflects my interpretation and approach.
+**Disclaimer**: This work draws extensively on materials from the **Google Business Intelligence Certificate program**. The work presented here reflects my interpretation and approach. The portfolio structure is inspired by my friend **Michael Neang** (github.com/mneang).
 
 ***
 
-# Background / Project Overview
+# 1. Background / Project Overview
 Cyclistic’s Customer Growth Team is preparing a business plan for next year. The objective is to understand how customers use Cyclistic bikes, with a priority on identifying demand across station locations. A BI dashboard will summarize trip records, helping the team make informed decisions about where to expand stations and how to optimize operations.
 
 ## Key Business Questions Addressed
@@ -20,3 +20,14 @@ Cyclistic’s Customer Growth Team is preparing a business plan for next year. T
 * Which factors (location, time, season, weather, subscription type) most impact customer demand?
 * How does year-over-year trip growth compare across stations?
 * Where does congestion occur, and how might new stations alleviate it?
+
+***
+
+# 2. Technology Architecture Overview
+
+## Tools
+* **Database & ETL**: Google BigQuery Sandbox for data processing and aggregation
+* **Visualization**: Tableau for dashboard creation
+* **Data Sources**:
+** Cyclistic trip dataset (rides, station start/end longitude/latitude, timestamps, trip duration)
+** Geographic data (station lat/long + supplemental zip code / neighborhood info)
