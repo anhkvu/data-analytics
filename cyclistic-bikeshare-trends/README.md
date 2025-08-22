@@ -86,4 +86,4 @@ Cyclistic leadership needs customer-driven insights to decide where to expand bi
 ***
 
 # 6. Conclusion
-The BI tool will provide an executive-ready dashboard summarizing millions of rides into clear, accessible visualizations. It will enable Cyclistic to evaluate demand at current stations, identify temporal and seasonal usage patterns, and track long-term growth trends.
+The BI tools provide an executive-ready dashboard summarizing the information about NYC bikeshare rides into clear, accessible visualizations. It will enable Cyclistic to evaluate demand at current stations, identify temporal and seasonal usage patterns, and track long-term growth trends.
