@@ -6,7 +6,7 @@
 
 ***
 
-**Disclaimer**: This work draws extensively on materials from the **Google Business Intelligence Certificate program**. The work presented here reflects my interpretation and approach. The portfolio structure is inspired by my friend **Michael Neang** (github.com/mneang).
+**Disclaimer**: This work draws extensively on materials from the **Google Business Intelligence Certificate program**. The work presented here reflects my interpretation and approach. The portfolio structure is inspired by the work of my friend **Michael Neang** (github.com/mneang).
 
 ***
 
