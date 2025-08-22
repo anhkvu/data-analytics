@@ -67,9 +67,8 @@ Cyclistic leadership needs customer-driven insights to decide where to expand bi
   * Measures of congestion and station-level demand
 * **Trip Duration & Destination**
   * Visualization ranking end stations by cumulative trip minutes
-  * Breakdown by user type (subscriber vs. casual)
+  * Breakdown by user type (subscriber vs. customer)
 * **Seasonal/Time Trends**
-  * Focused trend analysis for summer 2019, 2020
   * Peak usage by hour of day, day of week, and season
   * Demand variation relative to weather conditions (rain, temperature, wind)
 * **Growth Analysis**
